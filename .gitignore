@@ -4,6 +4,8 @@ tmp/
 *.bak
 *.pkl
 bears/
+bluebook-for-bulldozers/
+bluebook-for-bulldozers.zip
 __pycache__/
 .last_checked
 .gitconfig
